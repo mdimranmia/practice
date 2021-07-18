@@ -1,0 +1,84 @@
+body{
+    margin: 0;
+    font-family: 'Padauk', sans-serif;}
+    h1{
+        font-size: 50px;
+    }
+    section{
+        height: 1000px;
+        border: 10px solid rgb(221, 147, 221);
+
+    border-radius: 1%;
+    padding-top: 10px;
+       
+
+    }
+.heading{
+    width:40%;
+    float: left;
+    margin-left: 2%;
+    padding: 3%;
+     
+    
+}
+.heading img{
+    width:100%;
+
+}
+.orange-highlight{
+    color: rgb(206, 93, 149);
+    
+}
+.first-one{
+    background-image: url("imeages/top-banner.png");
+    
+    background-repeat: no-repeat;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,rgb(230, 22, 167), rgb(202, 124, 183));
+    padding: 10px 20px;
+    border-radius: 10px;
+    color: snow;
+    font-weight: 700;
+}
+.dream-area{
+    background-image: url("imeages/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.pani{
+    color:rgb(119, 116, 111);
+    font:bold;
+}
+h2{
+    
+    font-size: 40px;
+}
+h3{
+    color:cyan;
+}
+.single-experience{
+    background-color: honeydew;
+    box-shadow: 10px 10px 40px rgb(198, 49, 218);
+    height: 80%;
+}
+.experience-area{
+    background-image: url("imeages/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(108deg, lightSalmon, tomato);
+    border-image-slice: 1;
+}
+#baby{
+    border-left: 7px solid;
+    border-image: linear-gradient(108deg, rgb(233, 112, 64), rgb(154, 236, 46));
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+    font-size: 12px;
+}
